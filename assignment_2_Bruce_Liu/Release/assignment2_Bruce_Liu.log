@@ -1,0 +1,10 @@
+﻿  main.c
+  p1_schedule.c
+  p2_pyramid.c
+  p3_binary_convert.c
+  Generating code
+  0 of 15 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  assignment2_Bruce_Liu.vcxproj -> E:\current_classes\2350\assignment2_Bruce_Liu\Release\assignment2_Bruce_Liu.exe
